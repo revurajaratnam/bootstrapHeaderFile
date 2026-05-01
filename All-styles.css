@@ -492,4 +492,8 @@ a{
 .image-7 img{
     width: 40px;
     height: 40px;
+    padding-right: 10px;
+}
+.image-7 .h1-text-7{
+    margin-left: 20px;
 }
